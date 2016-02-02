@@ -1,3 +1,5 @@
+#awesome work!
+
 puts "\e[H\e[2J"
 
 def space
